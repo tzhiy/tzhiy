@@ -2,6 +2,10 @@
 
 Welcome to my page.
 
+My blog on Juejin: https://juejin.cn/user/871236495218264
+
+My blog on github: https://tzhiy.github.io
+
 <!--
 **tzhiy/tzhiy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
